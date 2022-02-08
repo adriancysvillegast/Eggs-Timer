@@ -1,7 +1,8 @@
 # eggs-timer
 Eggs timer is a basic app where use bar progress, count timer and add some things like an alarm.
+This app have 3 categories soft, medium and hard
 
-This app have 3 categories soft, medium and hard 
+This project was made following the Complete iOS App Development Bootcamp of The London App Brewery
 
 ScreenShots:
 
